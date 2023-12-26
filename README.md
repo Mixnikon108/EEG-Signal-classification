@@ -37,6 +37,13 @@ This project uses the following datasets:
 - **PhysioNet EEGMMIDB**: [Link to the dataset](https://www.physionet.org/content/eegmmidb/1.0.0/)
 - **BCI Competition IV 2a**: [Link to the dataset](https://lampx.tugraz.at/~bci/database/001-2014/description.pdf)
 
+## Contact Information
+
+For any inquiries or collaborations, feel free to reach out:
+
+- **Email**: [jorgechedo@gmail.com](mailto:jorgechedo@gmail.com)
+- **Twitter**: [@mixnikon](https://twitter.com/mixnikon)
+
 ## Contributions
 
 Contributions are welcome! If you wish to improve this project, please open an issue or send a pull request.
