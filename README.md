@@ -25,6 +25,10 @@ To run the project, follow these steps:
 1. Install the necessary dependencies: `pip install -r requirements.txt` (make sure you have the required libraries).
 2. Open and run the `notebook.ipynb` in your Jupyter environment.
 
+> [!IMPORTANT]
+> Make sure you have download the BCI Competition IV 2a Dataset and it is added to your folder.
+
+
 ## References
 
 - **ATCNet Paper**: [Link to the ATCNet paper](https://ieeexplore.ieee.org/document/9852687)
