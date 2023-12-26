@@ -1,51 +1,46 @@
-
-<center>
-
 ---
 
-# Proyecto Ciencia de Datos
-## Clasificación de señales EEG de Neuroimaginería Motora en pacientes con alta incertidumbre mediante un Transformer Espectral
+# Data Science Project
+## Classification of Motor Imagery EEG Signals in Patients with High Uncertainty using a Spectral Transformer
 ### Jorge de la Rosa, Alejandro del Río
-### Grado en Ciencia de Datos e Inteligencia Artificial
+### Bachelor's in Data Science and Artificial Intelligence
 <img src=https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Logotipo%20con%20Leyenda/LOGOTIPO%20leyenda%20color%20PNG.png width=25% height=25%>
 
 ---
 
-</center>
+## Project Description
 
-## Descripción del Proyecto
+This repository contains the code and documentation for the data science project developed as part of the course at the Polytechnic University of Madrid. The main objective of the project is to perform the classification of motor imagery EEG signals in patients with high uncertainty using a Spectral Transformer.
 
-Este repositorio contiene el código y la documentación para el proyecto de ciencia de datos desarrollado como parte del curso en la Universidad Politécnica de Madrid. El objetivo principal del proyecto es realizar la clasificación de señales EEG de neuroimaginería motora en pacientes con alta incertidumbre utilizando un Transformer Espectral.
+## Repository Structure
 
-## Estructura del Repositorio
+- `notebook.ipynb`: Jupyter Notebook file that contains the complete project explained step by step.
+- `utils.py`: File with utility functions required for the notebook.
+- `models.py`: Implementation of ATCNet and Spectral Transformer.
 
-- `notebook.ipynb`: Archivo Jupyter Notebook que contiene el proyecto completo explicado paso a paso.
-- `utils.py`: Archivo con funciones utilitarias necesarias para el notebook.
-- `models.py`: Implementación de ATCNet y Transformer Espectral.
+## Usage
 
-## Uso
+To run the project, follow these steps:
 
-Para ejecutar el proyecto, sigue estos pasos:
+1. Install the necessary dependencies: `pip install -r requirements.txt` (make sure you have the required libraries).
+2. Open and run the `notebook.ipynb` in your Jupyter environment.
 
-1. Instala las dependencias necesarias: `pip install -r requirements.txt` (asegúrate de tener las bibliotecas requeridas).
-2. Abre y ejecuta el notebook `notebook.ipynb` en tu entorno de Jupyter.
+## References
 
-## Referencias
+- **ATCNet Paper**: [Link to the ATCNet paper](https://ieeexplore.ieee.org/document/9852687)
+- **Spectral Transformer Paper**: [Link to the Spectral Transformer paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423005633)
 
-- **ATCNet Paper**: [Link al paper de ATCNet](https://ieeexplore.ieee.org/document/9852687)
-- **Transformer Espectral Paper**: [Link al paper de Transformer Espectral](https://www.sciencedirect.com/science/article/abs/pii/S1746809423005633)
+## Datasets
 
-## Conjuntos de Datos
+This project uses the following datasets:
 
-Este proyecto utiliza los siguientes conjuntos de datos:
+- **PhysioNet EEGMMIDB**: [Link to the dataset](https://www.physionet.org/content/eegmmidb/1.0.0/)
+- **BCI Competition IV 2a**: [Link to the dataset](https://lampx.tugraz.at/~bci/database/001-2014/description.pdf)
 
-- **PhysioNet EEGMMIDB**: [Link al conjunto de datos](https://www.physionet.org/content/eegmmidb/1.0.0/)
-- **BCI Competition IV 2a**: [Link al conjunto de datos](https://lampx.tugraz.at/~bci/database/001-2014/description.pdf)
+## Contributions
 
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor, abre un problema o envía una solicitud de extracción.
+Contributions are welcome! If you wish to improve this project, please open an issue or send a pull request.
 
 ---
 
-**Nota**: Asegúrate de cumplir con las licencias y términos de uso de los conjuntos de datos y los papers utilizados en este proyecto.
+**Note**: Make sure to comply with the licenses and terms of use of the datasets and papers used in this project.
