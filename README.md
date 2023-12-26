@@ -31,15 +31,15 @@ To run the project, follow these steps:
 
 ## References
 
-- **ATCNet Paper**: [Link to the ATCNet paper](https://ieeexplore.ieee.org/document/9852687)
+- **ATCNet Paper**: Link to the [ATCNet paper](https://ieeexplore.ieee.org/document/9852687) and their [original code](https://github.com/Altaheri/EEG-ATCNet/tree/main)
 - **Spectral Transformer Paper**: [Link to the Spectral Transformer paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423005633)
 
 ## Datasets
 
 This project uses the following datasets:
 
-- **PhysioNet EEGMMIDB**: [Link to the dataset](https://www.physionet.org/content/eegmmidb/1.0.0/)
-- **BCI Competition IV 2a**: [Link to the dataset](https://lampx.tugraz.at/~bci/database/001-2014/description.pdf)
+- **PhysioNet EEGMMIDB**: Link to the [dataset](https://www.physionet.org/content/eegmmidb/1.0.0/)
+- **BCI Competition IV 2a**: Link to the [dataset](http://bnci-horizon-2020.eu/database/data-sets) and to the [documentation](https://lampx.tugraz.at/~bci/database/001-2014/description.pdf)
 
 ## Contact Information
 
