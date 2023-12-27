@@ -54,4 +54,11 @@ Contributions are welcome! If you wish to improve this project, please open an i
 
 ---
 
-**Note**: Make sure to comply with the licenses and terms of use of the datasets and papers used in this project.
+<p align="center">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="Licencia Creative Commons" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+  </a>
+</p>
+
+Este trabajo está bajo [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
