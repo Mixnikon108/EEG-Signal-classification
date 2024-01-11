@@ -14,7 +14,7 @@ This repository contains the code and documentation for the data science project
 
 ## Repository Structure
 
-- `notebook.ipynb`: Jupyter Notebook file that contains the complete project explained step by step.
+- `project.ipynb`: Jupyter Notebook file that contains the complete project explained step by step.
 - `utils.py`: File with utility functions required for the notebook.
 - `models.py`: Implementation of ATCNet and Spectral Transformer.
 
